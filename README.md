@@ -1,6 +1,6 @@
 # Sentence Transformers - My (not so) Secret Weapon in the ML Zoomcamp Q&A Challenge
 
-![Natural_Language_Processing.png](https://github.com/danietakeshi/articles/edit/main/README.md#:~:text=Natural_Language_Processing.png,41)
+![capa](Natural_Language_Processing.png)
 
 Just like me, you might be diving into the Machine Learning Zoomcamp, or maybe you're just eager to unwrap the mysteries of Natural Language Processing and its practical uses. Join me on this adventure where I'll show you how to use Sentence Transformers to craft a model that picks the best answer for a given question.
 
